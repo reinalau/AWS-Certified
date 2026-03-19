@@ -11,9 +11,9 @@ aws-certifications/
 │
 ├── README.md                         ← estás aquí
 │
-├── clf-c02-cloud-practitioner/       # AWS Certified Cloud Practitioner
+├── DEA-C01/                          # AWS Certified Data Engineer Associate
 ├── saa-c03-solutions-architect/      # AWS Certified Solutions Architect – Associate
-├── soa-c02-sysops-administrator/     # AWS Certified SysOps Administrator – Associate
+├── soa-c02-cloudops-administrator/   # AWS Certified SysOps Administrator – Associate
 ├── dva-c02-developer/                # AWS Certified Developer – Associate
 ├── sap-c02-solutions-architect-pro/  # AWS Certified Solutions Architect – Professional
 ├── dop-c02-devops-engineer-pro/      # AWS Certified DevOps Engineer – Professional
@@ -30,12 +30,13 @@ aws-certifications/
 
 | Carpeta | Certificación | Estado |
 |--------|---------------|--------|
-| `clf-c02-cloud-practitioner/` | AWS Certified Cloud Practitioner (CLF-C02) | 🔄 En progreso |
+| `clf-c02-cloud-practitioner/` | AWS Certified Cloud Practitioner (CLF-C02) | ⏳ Pendiente |
 
 ### Associate
 
 | Carpeta | Certificación | Estado |
 |--------|---------------|--------|
+| `DEA-C01/` | Data Engineer Associate | 🔄 En progreso |
 | `saa-c03-solutions-architect/` | Solutions Architect – Associate (SAA-C03) | ⏳ Pendiente |
 | `soa-c02-sysops-administrator/` | SysOps Administrator – Associate (SOA-C02) | ⏳ Pendiente |
 | `dva-c02-developer/` | Developer – Associate (DVA-C02) | ⏳ Pendiente |
