@@ -13,7 +13,7 @@ aws-certifications/
 │
 ├── DEA-C01/                          # AWS Certified Data Engineer Associate
 ├── saa-c03-solutions-architect/      # AWS Certified Solutions Architect – Associate
-├── soa-c02-cloudops-administrator/   # AWS Certified SysOps Administrator – Associate
+├── SOA-C03/                          # AWS Certified CloudOps Engineer – Associate
 ├── dva-c02-developer/                # AWS Certified Developer – Associate
 ├── sap-c02-solutions-architect-pro/  # AWS Certified Solutions Architect – Professional
 ├── dop-c02-devops-engineer-pro/      # AWS Certified DevOps Engineer – Professional
@@ -38,7 +38,7 @@ aws-certifications/
 |--------|---------------|--------|
 | `DEA-C01/` | Data Engineer Associate | 🔄 En progreso |
 | `saa-c03-solutions-architect/` | Solutions Architect – Associate (SAA-C03) | ⏳ Pendiente |
-| `soa-c02-sysops-administrator/` | SysOps Administrator – Associate (SOA-C02) | ⏳ Pendiente |
+| `SOA-C03/` | CloudOps Engineer – Associate (SOA-C02) | 🔄 En progreso |
 | `dva-c02-developer/` | Developer – Associate (DVA-C02) | ⏳ Pendiente |
 
 ### Professional
