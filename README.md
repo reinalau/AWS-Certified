@@ -38,7 +38,7 @@ aws-certifications/
 |--------|---------------|--------|
 | `DEA-C01/` | Data Engineer Associate | 🔄 En progreso |
 | `saa-c03-solutions-architect/` | Solutions Architect – Associate (SAA-C03) | ⏳ Pendiente |
-| `SOA-C03/` | CloudOps Engineer – Associate (SOA-C02) | 🔄 En progreso |
+| `SOA-C03/` | CloudOps Engineer – Associate (SOA-C03) | 🔄 En progreso |
 | `dva-c02-developer/` | Developer – Associate (DVA-C02) | ⏳ Pendiente |
 
 ### Professional
